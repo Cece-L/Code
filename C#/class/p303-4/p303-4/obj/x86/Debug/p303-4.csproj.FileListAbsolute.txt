@@ -1,0 +1,4 @@
+D:\自己的程序\C#\p303-4\p303-4\bin\Debug\p303-4.exe
+D:\自己的程序\C#\p303-4\p303-4\bin\Debug\p303-4.pdb
+D:\自己的程序\C#\p303-4\p303-4\obj\x86\Debug\p303-4.exe
+D:\自己的程序\C#\p303-4\p303-4\obj\x86\Debug\p303-4.pdb

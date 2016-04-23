@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove", "Remove\Remove.csproj", "{359CB4C8-4A8B-46F5-85D6-01DF5F503835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359CB4C8-4A8B-46F5-85D6-01DF5F503835}.Debug|x86.ActiveCfg = Debug|x86
+		{359CB4C8-4A8B-46F5-85D6-01DF5F503835}.Debug|x86.Build.0 = Debug|x86
+		{359CB4C8-4A8B-46F5-85D6-01DF5F503835}.Release|x86.ActiveCfg = Release|x86
+		{359CB4C8-4A8B-46F5-85D6-01DF5F503835}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

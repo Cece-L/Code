@@ -1,0 +1,4 @@
+D:\Personally\C#\class\PadLeftOrRight\PadLeftOrRight\bin\Debug\PadLeftOrRight.exe
+D:\Personally\C#\class\PadLeftOrRight\PadLeftOrRight\bin\Debug\PadLeftOrRight.pdb
+D:\Personally\C#\class\PadLeftOrRight\PadLeftOrRight\obj\x86\Debug\PadLeftOrRight.exe
+D:\Personally\C#\class\PadLeftOrRight\PadLeftOrRight\obj\x86\Debug\PadLeftOrRight.pdb

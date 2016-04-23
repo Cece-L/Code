@@ -1,0 +1,4 @@
+D:\Personally\C#\class\Replace\Replace\bin\Debug\Replace.exe
+D:\Personally\C#\class\Replace\Replace\bin\Debug\Replace.pdb
+D:\Personally\C#\class\Replace\Replace\obj\x86\Debug\Replace.exe
+D:\Personally\C#\class\Replace\Replace\obj\x86\Debug\Replace.pdb

@@ -1,0 +1,4 @@
+D:\Personally\C#\class\Format\Format\bin\Debug\Format.exe
+D:\Personally\C#\class\Format\Format\bin\Debug\Format.pdb
+D:\Personally\C#\class\Format\Format\obj\x86\Debug\Format.exe
+D:\Personally\C#\class\Format\Format\obj\x86\Debug\Format.pdb

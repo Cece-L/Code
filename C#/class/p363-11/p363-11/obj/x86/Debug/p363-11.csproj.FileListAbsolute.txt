@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\p363-11\p363-11\bin\Debug\p363-11.exe
+D:\Personally\C#\homework\p363-11\p363-11\bin\Debug\p363-11.pdb
+D:\Personally\C#\homework\p363-11\p363-11\obj\x86\Debug\p363-11.exe
+D:\Personally\C#\homework\p363-11\p363-11\obj\x86\Debug\p363-11.pdb

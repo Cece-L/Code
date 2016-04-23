@@ -1,0 +1,6 @@
+D:\Personally\C#\homework\p46\p46\bin\Debug\p46.exe
+D:\Personally\C#\homework\p46\p46\bin\Debug\p46.pdb
+D:\Personally\C#\homework\p46\p46\obj\x86\Debug\p46.exe
+D:\Personally\C#\homework\p46\p46\obj\x86\Debug\p46.pdb
+D:\Personally\C#\class\p46\p46\obj\x86\Debug\p46.exe
+D:\Personally\C#\class\p46\p46\obj\x86\Debug\p46.pdb

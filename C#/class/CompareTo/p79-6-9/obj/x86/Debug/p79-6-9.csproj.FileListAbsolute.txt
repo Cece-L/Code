@@ -1,0 +1,6 @@
+D:\Personally\C#\class\p79-6-9\p79-6-9\bin\Debug\p79-6-9.exe
+D:\Personally\C#\class\p79-6-9\p79-6-9\bin\Debug\p79-6-9.pdb
+D:\Personally\C#\class\p79-6-9\p79-6-9\obj\x86\Debug\p79-6-9.exe
+D:\Personally\C#\class\p79-6-9\p79-6-9\obj\x86\Debug\p79-6-9.pdb
+D:\Personally\C#\class\CompareTo\p79-6-9\obj\x86\Debug\p79-6-9.exe
+D:\Personally\C#\class\CompareTo\p79-6-9\obj\x86\Debug\p79-6-9.pdb

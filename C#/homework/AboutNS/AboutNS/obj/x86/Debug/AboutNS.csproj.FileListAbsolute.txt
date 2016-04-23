@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\AboutNS\AboutNS\bin\Debug\AboutNS.exe
+D:\Personally\C#\homework\AboutNS\AboutNS\bin\Debug\AboutNS.pdb
+D:\Personally\C#\homework\AboutNS\AboutNS\obj\x86\Debug\AboutNS.exe
+D:\Personally\C#\homework\AboutNS\AboutNS\obj\x86\Debug\AboutNS.pdb

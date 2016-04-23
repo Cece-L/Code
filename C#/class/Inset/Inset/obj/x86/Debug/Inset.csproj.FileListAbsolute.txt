@@ -1,0 +1,4 @@
+D:\Personally\C#\class\Inset\Inset\bin\Debug\Inset.exe
+D:\Personally\C#\class\Inset\Inset\bin\Debug\Inset.pdb
+D:\Personally\C#\class\Inset\Inset\obj\x86\Debug\Inset.exe
+D:\Personally\C#\class\Inset\Inset\obj\x86\Debug\Inset.pdb

@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\judge\judge\bin\Debug\judge.exe
+D:\Personally\C#\homework\judge\judge\bin\Debug\judge.pdb
+D:\Personally\C#\homework\judge\judge\obj\x86\Debug\judge.exe
+D:\Personally\C#\homework\judge\judge\obj\x86\Debug\judge.pdb

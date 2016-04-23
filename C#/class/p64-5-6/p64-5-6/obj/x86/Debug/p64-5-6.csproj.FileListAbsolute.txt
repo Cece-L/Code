@@ -1,0 +1,4 @@
+D:\Personally\C#\class\p64-5-6\p64-5-6\bin\Debug\p64-5-6.exe
+D:\Personally\C#\class\p64-5-6\p64-5-6\bin\Debug\p64-5-6.pdb
+D:\Personally\C#\class\p64-5-6\p64-5-6\obj\x86\Debug\p64-5-6.exe
+D:\Personally\C#\class\p64-5-6\p64-5-6\obj\x86\Debug\p64-5-6.pdb

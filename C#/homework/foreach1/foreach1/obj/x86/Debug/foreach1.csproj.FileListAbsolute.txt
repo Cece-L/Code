@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\foreach1\foreach1\bin\Debug\foreach1.exe
+D:\Personally\C#\homework\foreach1\foreach1\bin\Debug\foreach1.pdb
+D:\Personally\C#\homework\foreach1\foreach1\obj\x86\Debug\foreach1.exe
+D:\Personally\C#\homework\foreach1\foreach1\obj\x86\Debug\foreach1.pdb

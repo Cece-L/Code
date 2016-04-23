@@ -1,0 +1,5 @@
+D:\Personally\C#\class\AddArray1\AddArray1\bin\Debug\AddArray1.exe
+D:\Personally\C#\class\AddArray1\AddArray1\bin\Debug\AddArray1.pdb
+D:\Personally\C#\class\AddArray1\AddArray1\obj\x86\Debug\AddArray1.exe
+D:\Personally\C#\class\AddArray1\AddArray1\obj\x86\Debug\AddArray1.pdb
+D:\Personally\C#\class\AddArray1\AddArray1\obj\x86\Debug\AddArray1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\SumOfSqares\SumOfSqares\bin\Debug\SumOfSqares.exe
+D:\Personally\C#\homework\SumOfSqares\SumOfSqares\bin\Debug\SumOfSqares.pdb
+D:\Personally\C#\homework\SumOfSqares\SumOfSqares\obj\x86\Debug\SumOfSqares.exe
+D:\Personally\C#\homework\SumOfSqares\SumOfSqares\obj\x86\Debug\SumOfSqares.pdb

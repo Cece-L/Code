@@ -1,0 +1,4 @@
+D:\Personally\C#\class\p343-7\p343-7\bin\Debug\p343-7.exe
+D:\Personally\C#\class\p343-7\p343-7\bin\Debug\p343-7.pdb
+D:\Personally\C#\class\p343-7\p343-7\obj\x86\Debug\p343-7.exe
+D:\Personally\C#\class\p343-7\p343-7\obj\x86\Debug\p343-7.pdb

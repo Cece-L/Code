@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\CalcSum\CalcSum\bin\Debug\CalcSum.exe
+D:\Personally\C#\homework\CalcSum\CalcSum\bin\Debug\CalcSum.pdb
+D:\Personally\C#\homework\CalcSum\CalcSum\obj\x86\Debug\CalcSum.exe
+D:\Personally\C#\homework\CalcSum\CalcSum\obj\x86\Debug\CalcSum.pdb

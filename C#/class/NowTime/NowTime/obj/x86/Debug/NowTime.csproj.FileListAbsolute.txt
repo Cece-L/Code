@@ -1,0 +1,4 @@
+D:\Personally\C#\class\NowTime\NowTime\bin\Debug\NowTime.exe
+D:\Personally\C#\class\NowTime\NowTime\bin\Debug\NowTime.pdb
+D:\Personally\C#\class\NowTime\NowTime\obj\x86\Debug\NowTime.exe
+D:\Personally\C#\class\NowTime\NowTime\obj\x86\Debug\NowTime.pdb

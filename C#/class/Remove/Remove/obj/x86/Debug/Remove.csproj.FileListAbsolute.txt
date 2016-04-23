@@ -1,0 +1,4 @@
+D:\Personally\C#\class\Remove\Remove\bin\Debug\Remove.exe
+D:\Personally\C#\class\Remove\Remove\bin\Debug\Remove.pdb
+D:\Personally\C#\class\Remove\Remove\obj\x86\Debug\Remove.exe
+D:\Personally\C#\class\Remove\Remove\obj\x86\Debug\Remove.pdb

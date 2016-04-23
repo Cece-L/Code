@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\difffiled\difffiled\bin\Debug\difffiled.exe
+D:\Personally\C#\homework\difffiled\difffiled\bin\Debug\difffiled.pdb
+D:\Personally\C#\homework\difffiled\difffiled\obj\x86\Debug\difffiled.exe
+D:\Personally\C#\homework\difffiled\difffiled\obj\x86\Debug\difffiled.pdb

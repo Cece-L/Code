@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\p383-17\p383-17\bin\Debug\p383-17.exe
+D:\Personally\C#\homework\p383-17\p383-17\bin\Debug\p383-17.pdb
+D:\Personally\C#\homework\p383-17\p383-17\obj\x86\Debug\p383-17.exe
+D:\Personally\C#\homework\p383-17\p383-17\obj\x86\Debug\p383-17.pdb

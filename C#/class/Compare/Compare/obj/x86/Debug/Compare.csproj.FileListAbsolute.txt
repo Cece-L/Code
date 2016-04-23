@@ -1,0 +1,4 @@
+D:\Personally\C#\class\Compare\Compare\bin\Debug\Compare.exe
+D:\Personally\C#\class\Compare\Compare\bin\Debug\Compare.pdb
+D:\Personally\C#\class\Compare\Compare\obj\x86\Debug\Compare.exe
+D:\Personally\C#\class\Compare\Compare\obj\x86\Debug\Compare.pdb

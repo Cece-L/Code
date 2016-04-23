@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\Smile\Smile\bin\Debug\Smile.exe
+D:\Personally\C#\homework\Smile\Smile\bin\Debug\Smile.pdb
+D:\Personally\C#\homework\Smile\Smile\obj\x86\Debug\Smile.exe
+D:\Personally\C#\homework\Smile\Smile\obj\x86\Debug\Smile.pdb

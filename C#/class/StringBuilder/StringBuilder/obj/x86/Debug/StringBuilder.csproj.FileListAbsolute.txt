@@ -1,0 +1,4 @@
+D:\Personally\C#\class\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe
+D:\Personally\C#\class\StringBuilder\StringBuilder\bin\Debug\StringBuilder.pdb
+D:\Personally\C#\class\StringBuilder\StringBuilder\obj\x86\Debug\StringBuilder.exe
+D:\Personally\C#\class\StringBuilder\StringBuilder\obj\x86\Debug\StringBuilder.pdb

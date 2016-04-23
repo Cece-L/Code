@@ -1,0 +1,9 @@
+D:\自己的程序\C#\p313-5\p313-5\bin\Debug\p313-5.exe
+D:\自己的程序\C#\p313-5\p313-5\bin\Debug\p313-5.pdb
+D:\自己的程序\C#\p313-5\p313-5\obj\x86\Debug\p313-5.exe
+D:\自己的程序\C#\p313-5\p313-5\obj\x86\Debug\p313-5.pdb
+D:\Personally\C#\p313-5\p313-5\obj\x86\Debug\p313-5.exe
+D:\Personally\C#\p313-5\p313-5\obj\x86\Debug\p313-5.pdb
+D:\Personally\C#\p313-5\p313-5\bin\Debug\p313-5.exe
+D:\Personally\C#\p313-5\p313-5\bin\Debug\p313-5.pdb
+D:\Personally\C#\p313-5\p313-5\obj\x86\Debug\p313-5.csprojResolveAssemblyReference.cache

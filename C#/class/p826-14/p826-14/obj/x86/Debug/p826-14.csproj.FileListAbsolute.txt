@@ -1,0 +1,4 @@
+D:\Personally\C#\class\p826-14\p826-14\bin\Debug\p826-14.exe
+D:\Personally\C#\class\p826-14\p826-14\bin\Debug\p826-14.pdb
+D:\Personally\C#\class\p826-14\p826-14\obj\x86\Debug\p826-14.exe
+D:\Personally\C#\class\p826-14\p826-14\obj\x86\Debug\p826-14.pdb

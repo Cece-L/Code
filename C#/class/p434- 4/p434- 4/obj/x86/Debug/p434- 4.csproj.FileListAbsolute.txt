@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\p434- 4\p434- 4\bin\Debug\p434- 4.exe
+D:\Personally\C#\homework\p434- 4\p434- 4\bin\Debug\p434- 4.pdb
+D:\Personally\C#\homework\p434- 4\p434- 4\obj\x86\Debug\p434- 4.exe
+D:\Personally\C#\homework\p434- 4\p434- 4\obj\x86\Debug\p434- 4.pdb

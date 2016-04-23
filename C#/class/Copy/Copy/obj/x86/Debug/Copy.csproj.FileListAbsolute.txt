@@ -1,0 +1,4 @@
+D:\Personally\C#\class\Copy\Copy\bin\Debug\Copy.exe
+D:\Personally\C#\class\Copy\Copy\bin\Debug\Copy.pdb
+D:\Personally\C#\class\Copy\Copy\obj\x86\Debug\Copy.exe
+D:\Personally\C#\class\Copy\Copy\obj\x86\Debug\Copy.pdb

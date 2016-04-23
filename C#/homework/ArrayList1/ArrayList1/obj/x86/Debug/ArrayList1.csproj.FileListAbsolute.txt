@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\ArrayList1\ArrayList1\bin\Debug\ArrayList1.exe
+D:\Personally\C#\homework\ArrayList1\ArrayList1\bin\Debug\ArrayList1.pdb
+D:\Personally\C#\homework\ArrayList1\ArrayList1\obj\x86\Debug\ArrayList1.exe
+D:\Personally\C#\homework\ArrayList1\ArrayList1\obj\x86\Debug\ArrayList1.pdb

@@ -1,0 +1,4 @@
+D:\Personally\C#\class\p68-5-10\p68-5-10\bin\Debug\p68-5-10.exe
+D:\Personally\C#\class\p68-5-10\p68-5-10\bin\Debug\p68-5-10.pdb
+D:\Personally\C#\class\p68-5-10\p68-5-10\obj\x86\Debug\p68-5-10.exe
+D:\Personally\C#\class\p68-5-10\p68-5-10\obj\x86\Debug\p68-5-10.pdb

@@ -1,0 +1,5 @@
+D:\Personally\C#\class\p35-10\p35-10\bin\Debug\p35-10.exe
+D:\Personally\C#\class\p35-10\p35-10\bin\Debug\p35-10.pdb
+D:\Personally\C#\class\p35-10\p35-10\obj\x86\Debug\p35-10.csprojResolveAssemblyReference.cache
+D:\Personally\C#\class\p35-10\p35-10\obj\x86\Debug\p35-10.exe
+D:\Personally\C#\class\p35-10\p35-10\obj\x86\Debug\p35-10.pdb

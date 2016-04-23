@@ -1,0 +1,4 @@
+D:\Personally\C#\class\Substring\Substring\bin\Debug\Substring.exe
+D:\Personally\C#\class\Substring\Substring\bin\Debug\Substring.pdb
+D:\Personally\C#\class\Substring\Substring\obj\x86\Debug\Substring.exe
+D:\Personally\C#\class\Substring\Substring\obj\x86\Debug\Substring.pdb

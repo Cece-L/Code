@@ -1,0 +1,10 @@
+D:\自己的程序\C#\p293-1\p293-1\bin\Debug\p293-1.exe
+D:\自己的程序\C#\p293-1\p293-1\bin\Debug\p293-1.pdb
+D:\自己的程序\C#\p293-1\p293-1\obj\x86\Debug\p293-1.exe
+D:\自己的程序\C#\p293-1\p293-1\obj\x86\Debug\p293-1.pdb
+D:\Personally\C#\p293-1\p293-1\obj\x86\Debug\p293-1.exe
+D:\Personally\C#\p293-1\p293-1\obj\x86\Debug\p293-1.pdb
+D:\Personally\C#\p293-1\p293-1\bin\Debug\p293-1.exe
+D:\Personally\C#\p293-1\p293-1\bin\Debug\p293-1.pdb
+D:\Personally\C#\class\p293-1\p293-1\obj\x86\Debug\p293-1.exe
+D:\Personally\C#\class\p293-1\p293-1\obj\x86\Debug\p293-1.pdb

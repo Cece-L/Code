@@ -1,0 +1,4 @@
+D:\Personally\C#\class\Equals\Equals\bin\Debug\Equals.exe
+D:\Personally\C#\class\Equals\Equals\bin\Debug\Equals.pdb
+D:\Personally\C#\class\Equals\Equals\obj\x86\Debug\Equals.exe
+D:\Personally\C#\class\Equals\Equals\obj\x86\Debug\Equals.pdb

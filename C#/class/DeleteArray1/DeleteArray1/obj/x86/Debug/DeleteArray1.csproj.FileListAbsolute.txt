@@ -1,0 +1,4 @@
+D:\Personally\C#\class\DeleteArray1\DeleteArray1\bin\Debug\DeleteArray1.exe
+D:\Personally\C#\class\DeleteArray1\DeleteArray1\bin\Debug\DeleteArray1.pdb
+D:\Personally\C#\class\DeleteArray1\DeleteArray1\obj\x86\Debug\DeleteArray1.exe
+D:\Personally\C#\class\DeleteArray1\DeleteArray1\obj\x86\Debug\DeleteArray1.pdb

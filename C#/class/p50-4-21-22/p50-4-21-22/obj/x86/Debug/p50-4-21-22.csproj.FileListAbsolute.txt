@@ -1,0 +1,5 @@
+D:\Personally\C#\class\p50-4-21-22\p50-4-21-22\bin\Debug\p50-4-21-22.exe
+D:\Personally\C#\class\p50-4-21-22\p50-4-21-22\bin\Debug\p50-4-21-22.pdb
+D:\Personally\C#\class\p50-4-21-22\p50-4-21-22\obj\x86\Debug\p50-4-21-22.exe
+D:\Personally\C#\class\p50-4-21-22\p50-4-21-22\obj\x86\Debug\p50-4-21-22.pdb
+D:\Personally\C#\class\p50-4-21-22\p50-4-21-22\obj\x86\Debug\p50-4-21-22.csprojResolveAssemblyReference.cache

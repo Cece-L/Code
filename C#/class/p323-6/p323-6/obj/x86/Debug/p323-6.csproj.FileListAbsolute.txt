@@ -1,0 +1,6 @@
+D:\自己的程序\C#\p323-6\p323-6\bin\Debug\p323-6.exe
+D:\自己的程序\C#\p323-6\p323-6\bin\Debug\p323-6.pdb
+D:\自己的程序\C#\p323-6\p323-6\obj\x86\Debug\p323-6.exe
+D:\自己的程序\C#\p323-6\p323-6\obj\x86\Debug\p323-6.pdb
+D:\Personally\C#\p323-6\p323-6\obj\x86\Debug\p323-6.exe
+D:\Personally\C#\p323-6\p323-6\obj\x86\Debug\p323-6.pdb

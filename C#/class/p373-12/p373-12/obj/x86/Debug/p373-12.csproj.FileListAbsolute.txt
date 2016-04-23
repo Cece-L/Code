@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\p373-12\p373-12\bin\Debug\p373-12.exe
+D:\Personally\C#\homework\p373-12\p373-12\bin\Debug\p373-12.pdb
+D:\Personally\C#\homework\p373-12\p373-12\obj\x86\Debug\p373-12.exe
+D:\Personally\C#\homework\p373-12\p373-12\obj\x86\Debug\p373-12.pdb

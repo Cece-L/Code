@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\Week\Week\bin\Debug\Week.exe
+D:\Personally\C#\homework\Week\Week\bin\Debug\Week.pdb
+D:\Personally\C#\homework\Week\Week\obj\x86\Debug\Week.exe
+D:\Personally\C#\homework\Week\Week\obj\x86\Debug\Week.pdb
