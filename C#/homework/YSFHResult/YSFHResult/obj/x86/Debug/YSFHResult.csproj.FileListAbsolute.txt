@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\YSFHResult\YSFHResult\bin\Debug\YSFHResult.exe
+D:\Personally\C#\homework\YSFHResult\YSFHResult\bin\Debug\YSFHResult.pdb
+D:\Personally\C#\homework\YSFHResult\YSFHResult\obj\x86\Debug\YSFHResult.exe
+D:\Personally\C#\homework\YSFHResult\YSFHResult\obj\x86\Debug\YSFHResult.pdb

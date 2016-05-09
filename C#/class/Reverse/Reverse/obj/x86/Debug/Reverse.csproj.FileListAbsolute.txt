@@ -2,3 +2,4 @@ D:\Personally\C#\class\Reverse\Reverse\bin\Debug\Reverse.exe
 D:\Personally\C#\class\Reverse\Reverse\bin\Debug\Reverse.pdb
 D:\Personally\C#\class\Reverse\Reverse\obj\x86\Debug\Reverse.exe
 D:\Personally\C#\class\Reverse\Reverse\obj\x86\Debug\Reverse.pdb
+D:\Personally\C#\class\Reverse\Reverse\obj\x86\Debug\Reverse.csprojResolveAssemblyReference.cache

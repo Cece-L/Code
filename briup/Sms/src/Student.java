@@ -34,7 +34,7 @@ public class Student
 	public int getAge(){
 		return this.age;
 	}
-	public String ToString(){
+	public String toString(){
 		return "Student[ id:"+this.id+" , name:"+this.name+" , age:"+this.age+" ]"; 
 	}
 

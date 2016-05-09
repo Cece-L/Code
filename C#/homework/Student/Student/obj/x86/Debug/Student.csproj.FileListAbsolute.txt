@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\Student\Student\bin\Debug\Student.exe
+D:\Personally\C#\homework\Student\Student\bin\Debug\Student.pdb
+D:\Personally\C#\homework\Student\Student\obj\x86\Debug\Student.exe
+D:\Personally\C#\homework\Student\Student\obj\x86\Debug\Student.pdb

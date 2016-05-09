@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split1", "Split1\Split1.csproj", "{43CC2EF4-1380-4C1D-AA73-D266A45F871B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43CC2EF4-1380-4C1D-AA73-D266A45F871B}.Debug|x86.ActiveCfg = Debug|x86
+		{43CC2EF4-1380-4C1D-AA73-D266A45F871B}.Debug|x86.Build.0 = Debug|x86
+		{43CC2EF4-1380-4C1D-AA73-D266A45F871B}.Release|x86.ActiveCfg = Release|x86
+		{43CC2EF4-1380-4C1D-AA73-D266A45F871B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

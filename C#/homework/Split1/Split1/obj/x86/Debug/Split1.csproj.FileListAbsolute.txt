@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\Split1\Split1\bin\Debug\Split1.exe
+D:\Personally\C#\homework\Split1\Split1\bin\Debug\Split1.pdb
+D:\Personally\C#\homework\Split1\Split1\obj\x86\Debug\Split1.exe
+D:\Personally\C#\homework\Split1\Split1\obj\x86\Debug\Split1.pdb
