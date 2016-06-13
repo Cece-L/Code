@@ -1,0 +1,19 @@
+package com.briup.ce19;
+
+import java.util.Scanner;
+
+public class Test {
+	public static void main(String[] args) {
+		Scanner cs = new Scanner(System.in);
+		while(true){
+			System.out.println("--------begin--------------");
+			System.out.println("请输入一个除数，被9除：");
+			int a = 9 ; 
+			String line = cs.nextLine();
+			int b = Integer.parseInt(line);
+			System.out.println(a+"/"+b+"="+(a/b));
+			System.out.println("---------end---------------");
+			 
+		}
+	}
+}

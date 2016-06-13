@@ -1,0 +1,4 @@
+D:\Personally\C#\homework\GetGirth\GetGirth\bin\Debug\GetGirth.exe
+D:\Personally\C#\homework\GetGirth\GetGirth\bin\Debug\GetGirth.pdb
+D:\Personally\C#\homework\GetGirth\GetGirth\obj\x86\Debug\GetGirth.exe
+D:\Personally\C#\homework\GetGirth\GetGirth\obj\x86\Debug\GetGirth.pdb

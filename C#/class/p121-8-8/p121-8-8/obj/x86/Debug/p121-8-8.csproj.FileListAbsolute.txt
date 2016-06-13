@@ -1,0 +1,4 @@
+D:\Personally\C#\class\p121-8-8\p121-8-8\bin\Debug\p121-8-8.exe
+D:\Personally\C#\class\p121-8-8\p121-8-8\bin\Debug\p121-8-8.pdb
+D:\Personally\C#\class\p121-8-8\p121-8-8\obj\x86\Debug\p121-8-8.exe
+D:\Personally\C#\class\p121-8-8\p121-8-8\obj\x86\Debug\p121-8-8.pdb

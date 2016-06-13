@@ -1,0 +1,5 @@
+D:\Personally\C#\class\p116-8-4\p116-8-4\bin\Debug\p116-8-4.exe
+D:\Personally\C#\class\p116-8-4\p116-8-4\bin\Debug\p116-8-4.pdb
+D:\Personally\C#\class\p116-8-4\p116-8-4\obj\x86\Debug\p116-8-4.csprojResolveAssemblyReference.cache
+D:\Personally\C#\class\p116-8-4\p116-8-4\obj\x86\Debug\p116-8-4.exe
+D:\Personally\C#\class\p116-8-4\p116-8-4\obj\x86\Debug\p116-8-4.pdb

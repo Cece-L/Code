@@ -1,0 +1,5 @@
+D:\Personally\C#\homework\CustomOutInfo\CustomOutInfo\bin\Debug\CustomOutInfo.exe
+D:\Personally\C#\homework\CustomOutInfo\CustomOutInfo\bin\Debug\CustomOutInfo.pdb
+D:\Personally\C#\homework\CustomOutInfo\CustomOutInfo\obj\x86\Debug\CustomOutInfo.csprojResolveAssemblyReference.cache
+D:\Personally\C#\homework\CustomOutInfo\CustomOutInfo\obj\x86\Debug\CustomOutInfo.exe
+D:\Personally\C#\homework\CustomOutInfo\CustomOutInfo\obj\x86\Debug\CustomOutInfo.pdb

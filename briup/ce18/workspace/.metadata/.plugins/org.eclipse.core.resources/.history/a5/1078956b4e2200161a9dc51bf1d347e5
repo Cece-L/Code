@@ -1,0 +1,20 @@
+package com.briup.ce18;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ListTest {
+	public static void main(String[] args) {
+		 new ListTest().test1();
+	}
+	public void test1(){
+		//创建
+		List<String>list = new ArrayList<String>();
+		//添加
+		list.add("Tom");
+		list.add("Jane");
+		list.add("Tom");
+		System.out.println(list.size());
+		
+	}
+}

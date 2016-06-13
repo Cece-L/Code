@@ -1,0 +1,4 @@
+D:\Personally\C#\class\p116-8-3\p116-8-3\bin\Debug\p116-8-3.exe
+D:\Personally\C#\class\p116-8-3\p116-8-3\bin\Debug\p116-8-3.pdb
+D:\Personally\C#\class\p116-8-3\p116-8-3\obj\x86\Debug\p116-8-3.exe
+D:\Personally\C#\class\p116-8-3\p116-8-3\obj\x86\Debug\p116-8-3.pdb

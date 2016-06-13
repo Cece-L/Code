@@ -1,0 +1,5 @@
+D:\Personally\C#\homework\Yichang\Yichang\bin\Debug\Yichang.exe
+D:\Personally\C#\homework\Yichang\Yichang\bin\Debug\Yichang.pdb
+D:\Personally\C#\homework\Yichang\Yichang\obj\x86\Debug\Yichang.exe
+D:\Personally\C#\homework\Yichang\Yichang\obj\x86\Debug\Yichang.pdb
+D:\Personally\C#\homework\Yichang\Yichang\obj\x86\Debug\Yichang.csprojResolveAssemblyReference.cache

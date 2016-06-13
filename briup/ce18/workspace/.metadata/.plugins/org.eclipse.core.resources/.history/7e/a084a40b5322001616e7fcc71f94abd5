@@ -1,0 +1,8 @@
+package com.briup.ce18;
+
+public class MapTest {
+	public static void main(String[] args) {
+		new MapTest().test1();
+	}
+	public void test1(){}
+}

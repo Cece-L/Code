@@ -1,0 +1,5 @@
+package com.briup.ce17.pabstract;
+
+public abstract class Son extends Parent {
+
+}

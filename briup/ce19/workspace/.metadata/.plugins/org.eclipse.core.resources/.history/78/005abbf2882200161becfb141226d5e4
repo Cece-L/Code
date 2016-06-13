@@ -1,0 +1,18 @@
+package com.briup.ce19;
+
+public class Basic {
+	public static void main(String[] args) {
+		new Basic().test1();
+	}
+	//插入
+	public void test1(){
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			System.out.println("ok");
+		} catch (ClassNotFoundException e) {
+			e.printStackTrace();
+		}
+	}
+}
+
+
